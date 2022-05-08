@@ -16,6 +16,6 @@ In the jupyter notebook file **'LSTM-CRF.ipynb'**, training work will be complet
 In the jupyter notebook file **'LSTM-CRF.ipynb'**, after training work you will get train_output files. And **analysis (new).ipynb** is used to evaluate the performance of the model.
 ## Results
 ![alt text](https://github.com/woshicqy/CS598-DL4HealthCare/blob/main/data/table1.JPG?raw=true "Title")
-
+![alt text](https://github.com/woshicqy/CS598-DL4HealthCare/blob/main/data/figure1.png?raw=true "Title")
 ## Reference
 https://medinform.jmir.org/2018/4/e50/
