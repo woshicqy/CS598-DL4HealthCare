@@ -2,6 +2,8 @@
 ## Introduction
 In our group project, our target aims to reproduce the proposed deep learning approaches in Zhang's work including re-implementing bidirectional LSTM-CRF model, in terms of simultaneously identifying 5 types of clinical entities from Chinese EHR data. In our project, we followed Zhang's work to set up 5 types of clinical entities including: symptom (S), test (T), body part (B), treatment (Tr) and diagnosis (D).
 ## Dependencies
+In the project root directory, run the following to install the required packages.
+'''pip3 install -r requirements.txt'''
 ## Data download instruction
 We already uploaded the data we used in our project.
 ## Preprocessing
